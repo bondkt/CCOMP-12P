@@ -40,10 +40,10 @@ appScriptAuthor = "KTeuton"
 # *===============================================
 
 # initialize with appropriate values 
-client_id = "zRz_QqJplD3X0Q" 
-client_secret = "srnbq5vWee2ACFE6Vsob4QX-3X-oxA" 
+client_id = "" 
+client_secret = "" 
 username = "itchy-throat-6754" 
-password = "suckitgoogle" 
+password = "" 
 user_agent = "python test script by u/itchy-throat-6754" 
 
 # *===============================================
