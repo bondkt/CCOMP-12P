@@ -78,11 +78,11 @@ for submission in subreddit.top(limit = 1):
 
 # submitting a post
 # title of the post
-#post_title="Testing Bot - KTeuton"
+post_title="Testing Bot - KTeuton"
 # body of the post
-#post_body="This is a test bot, made by KTeuton."
+post_body="This is a test bot, made by KTeuton."
 # connect to mechanicalMercs, and post the title and body
-#reddit.subreddit('mechanicalMercs').submit(title=post_title, selftext=post_body)
+reddit.subreddit('mechanicalMercs').submit(title=post_title, selftext=post_body)
 
 # the ID of the comment 
 comment_id = "gsv5h7i"
