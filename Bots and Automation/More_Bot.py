@@ -43,11 +43,11 @@ appScriptAuthor = "KTeuton"
 # *===============================================
 
 # reddit bot login details
-client_id = "zRz_QqJplD3X0Q" 
-client_secret = "srnbq5vWee2ACFE6Vsob4QX-3X-oxA" 
-username = "itchy-throat-6754" 
-password = "suckitgoogle" 
-user_agent = "python test script by u/itchy-throat-6754" 
+client_id = "" 
+client_secret = "" 
+username = "" 
+password = "" 
+user_agent = "" 
 
 # list of comments that have been replied to
 comm_list = []
